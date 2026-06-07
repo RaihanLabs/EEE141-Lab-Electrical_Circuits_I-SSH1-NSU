@@ -11,7 +11,7 @@
 - **Faculty Name:** [Ms. Syeda Sarita Hassan](https://ece.northsouth.edu/people/syeda-sarita-hassan/)
 - **Faculty Initial:** SSH1
 - **E-mail:** <syeda.hassan@northsouth.edu>
-- Senior Lecturer, Department of Electrical & Computer Engineering
+- Senior Lecturer, Department of Electrical & Computer Engineering, North South University
 
 - **Google Scholar:** [Ms. Syeda Sarita Hassan](https://scholar.google.com/citations?user=oLEBxicAAAAJ&hl=en)
 
